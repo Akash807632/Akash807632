@@ -13,6 +13,22 @@ Description: A secure SaaS platform for IT, DevSecOps, or SRE teams to collabora
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashsh12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:its.me.akash8076@gmail.com) 
 
+## 🏅 AWS Educate Badges
+<table align="center">
+<tr>
+<td><img src="images/B1.png" width="110" alt="B1"/></td>
+<td><img src="images/B2.png" width="110" alt="B2"/></td>
+<td><img src="images/B3.png" width="110" alt="B3"/></td>
+</tr>
+<tr>
+<td><img src="images/B4.png" width="110" alt="B4"/></td>
+<td><img src="images/B5.png" width="110" alt="B5"/></td>
+<td><img src="images/B6.png" width="110" alt="B6"/></td>
+</tr>
+</table>
+
+
+
 
 
 <!-- Snake Game Repo View -->
